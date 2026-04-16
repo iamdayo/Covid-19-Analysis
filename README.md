@@ -197,11 +197,12 @@ These limitations do not invalidate the analysis, but they affect how results sh
 
 ## Tools Used
 
+All SQL queries used in this project can be found in the `/sql` folder, organized by stage (data preparation, cleaning, and analysis).
+
 | Tool | Purpose |
 |------|---------|
 | PostgreSQL | Data staging, cleaning, transformation, and analysis |
 | SQL | Aggregation, joins, CTEs, window functions |
-### Temidayo Olubayo | Data Analytics
 
 **Temidayo Olubayo**  
 Data Analytics | SQL | PostgreSQL | Power BI
