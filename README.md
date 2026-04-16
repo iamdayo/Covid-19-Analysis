@@ -119,6 +119,10 @@ Year-by-year case and death counts, adjusted for population, to show how the vir
 
 <img width="750" height="454" alt="image" src="https://github.com/user-attachments/assets/8beac8f5-2a29-4858-b849-92b01998bfcb" />
 
+**Top 10 Case Countries**
+
+<img width="748" height="465" alt="image" src="https://github.com/user-attachments/assets/5f7b09c0-adab-4b21-9fee-f9efec9ce0a7" />
+
 While these numbers are low relative to peak years, they confirm that the virus has not been completely eliminated and active transmission continues across multiple countries.
 
 ### Infection rates have dropped to near-invisible levels:
