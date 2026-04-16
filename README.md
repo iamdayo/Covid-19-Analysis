@@ -157,7 +157,7 @@ Historical trend analysis confirms that global cases peaked in earlier pandemic 
 
 ### Activity is geographically concentrated:
 
-Despite the global decline, certain countries continue to report measurably higher case volumes than others.
+Despite the global decline, COVID activity in 2026 is not evenly distributed, a small number of countries account for a disproportionate share of reported cases
 
 **2026 Covid Cases by Country**
 
@@ -187,8 +187,6 @@ This analysis covers only January and February. Updating the dataset to include 
 
 Case and death counts alone do not explain why some countries still see activity. Linking this data to vaccination rates or variant surveillance would provide a more complete picture.
 
----
-
 ## Limitations
 
 - **2026 data covers January and February only.** All conclusions about 2026 are based on a two-month window.
@@ -197,17 +195,12 @@ Case and death counts alone do not explain why some countries still see activity
 
 These limitations do not invalidate the analysis, but they affect how results should be interpreted — particularly for year-over-year comparisons.
 
----
-
 ## Tools Used
 
 | Tool | Purpose |
 |------|---------|
 | PostgreSQL | Data staging, cleaning, transformation, and analysis |
 | SQL | Aggregation, joins, CTEs, window functions |
-
----
-
 ### Temidayo Olubayo | Data Analytics
 
 **Temidayo Olubayo**  
