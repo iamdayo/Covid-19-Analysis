@@ -133,6 +133,11 @@ Year-by-year case and death counts, adjusted for population, to show how the vir
 
 **86,319 cases and 3,174 deaths** were recorded globally in just the first two months of 2026.
 
+**Cases and Deaths 2026**
+
+<img width="750" height="454" alt="image" src="https://github.com/user-attachments/assets/8beac8f5-2a29-4858-b849-92b01998bfcb" />
+
+
 While these numbers are low relative to peak years, they confirm that the virus has not been eliminated — active transmission continues across multiple countries.
 
 ---
@@ -140,6 +145,10 @@ While these numbers are low relative to peak years, they confirm that the virus 
 ### Infection rates have dropped to near-invisible levels:
 
 At **1.04 cases per 100,000 people**, the 2026 infection rate represents a dramatic decline from peak pandemic levels.
+
+**Cases and Deaths Per 100k People**
+
+<img width="749" height="453" alt="image" src="https://github.com/user-attachments/assets/3d6eaadd-99dd-4b06-8f4a-75fb3450860b" />
 
 The virus has transitioned from widespread transmission to minimal background activity — but it has not reached zero.
 
@@ -149,13 +158,25 @@ The virus has transitioned from widespread transmission to minimal background ac
 
 The global death rate stands at **0.04 deaths per 100,000 population** in 2026.
 
+**Deaths Per 100k Pepople**
+
+<img width="748" height="453" alt="image" src="https://github.com/user-attachments/assets/0d99c2e8-7df0-4007-a1ff-1cccedf32709" />
+
 This represents a significant improvement in outcomes compared to earlier pandemic years, likely reflecting residual immunity and reduced case volume. However, a **case fatality rate of 3.68%** — meaning roughly 1 in 27 confirmed cases results in death — suggests the virus still carries real risk for those who contract it.
+
+**Case Fatality Rate**
+
+<img width="749" height="453" alt="image" src="https://github.com/user-attachments/assets/90714a2f-78ed-4c96-b005-9088fd1fa459" />
 
 ---
 
 ### Peak COVID activity occurred in earlier years:
 
 Historical trend analysis confirms that global cases peaked in earlier pandemic years, followed by a sharp and sustained decline.
+
+**Covid Cases Per Year**
+
+<img width="750" height="455" alt="image" src="https://github.com/user-attachments/assets/cb2e1194-de2d-494d-82af-342475929365" />
 
 2026 represents the lowest level of recorded activity in the dataset — but the decline curve has flattened, suggesting COVID has stabilized rather than disappeared.
 
@@ -165,7 +186,7 @@ Historical trend analysis confirms that global cases peaked in earlier pandemic 
 
 Despite the global decline, certain countries continue to report measurably higher case volumes than others.
 
-This uneven distribution indicates that COVID has not disappeared uniformly — it persists more actively in specific regions.
+This uneven distribution indicates that COVID has not disappeared uniformly, it persists more actively in specific regions.
 
 ---
 
